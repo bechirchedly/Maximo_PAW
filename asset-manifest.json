@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Maximo_PWA/static/css/main.6ce109ce.chunk.css",
+    "main.js": "/Maximo_PWA/static/js/main.f018ecb8.chunk.js",
+    "main.js.map": "/Maximo_PWA/static/js/main.f018ecb8.chunk.js.map",
+    "runtime-main.js": "/Maximo_PWA/static/js/runtime-main.3304d9f1.js",
+    "runtime-main.js.map": "/Maximo_PWA/static/js/runtime-main.3304d9f1.js.map",
+    "static/css/2.bd25df0b.chunk.css": "/Maximo_PWA/static/css/2.bd25df0b.chunk.css",
+    "static/js/2.de346995.chunk.js": "/Maximo_PWA/static/js/2.de346995.chunk.js",
+    "static/js/2.de346995.chunk.js.map": "/Maximo_PWA/static/js/2.de346995.chunk.js.map",
+    "static/js/3.ece90e16.chunk.js": "/Maximo_PWA/static/js/3.ece90e16.chunk.js",
+    "static/js/3.ece90e16.chunk.js.map": "/Maximo_PWA/static/js/3.ece90e16.chunk.js.map",
+    "index.html": "/Maximo_PWA/index.html",
+    "service-worker.js": "/Maximo_PWA/service-worker.js",
+    "service-worker.js.map": "/Maximo_PWA/service-worker.js.map",
+    "static/css/2.bd25df0b.chunk.css.map": "/Maximo_PWA/static/css/2.bd25df0b.chunk.css.map",
+    "static/css/main.6ce109ce.chunk.css.map": "/Maximo_PWA/static/css/main.6ce109ce.chunk.css.map",
+    "static/js/2.de346995.chunk.js.LICENSE.txt": "/Maximo_PWA/static/js/2.de346995.chunk.js.LICENSE.txt",
+    "static/media/primereact.css": "/Maximo_PWA/static/media/color.6441e63a.png",
+    "static/media/primeicons.css": "/Maximo_PWA/static/media/primeicons.e61f3495.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3304d9f1.js",
+    "static/css/2.bd25df0b.chunk.css",
+    "static/js/2.de346995.chunk.js",
+    "static/css/main.6ce109ce.chunk.css",
+    "static/js/main.f018ecb8.chunk.js"
+  ]
+}
