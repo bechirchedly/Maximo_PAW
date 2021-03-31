@@ -1,0 +1,29 @@
+
+.dropdown-demo .p-dropdown {
+    width: 14rem;
+}
+.dropdown-demo .country-item-value img.flag {
+    width: 17px;
+}
+.drop {
+     
+     border: 2px solid red;
+     display:flex;
+     
+  }
+  .toleft{
+    margin-right: 0%;
+    padding-right: 0%;
+  }
+
+.con {
+    
+
+   float:right;
+   padding: 0px 0px 0px 80%;
+   border: 2px solid black;
+
+}
+
+
+

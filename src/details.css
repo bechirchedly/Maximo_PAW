@@ -1,0 +1,108 @@
+.container1{
+
+   /* position: relative;
+   right: 10%; */
+   
+
+    display:grid;
+    grid-template-columns: repeat(3,1fr);
+    
+    grid-auto-columns: minmax(200px ,auto);
+    /* border: 5px solid black; */
+
+
+}
+.container2{
+
+   
+ 
+     display: flex;
+     border: 5px solid black;
+ 
+ 
+ }
+.div1{
+    margin: 3% 40px 20px 3%;
+
+    flex-wrap:wrap;
+    width:max-content;
+    height: max-content;
+    border: 1px solid black;
+    background-color: white;
+
+}
+.div2{
+    margin: 3% 40px 20px 20px;
+    flex-wrap:wrap;
+    width:max-content;
+    height: max-content;
+   /* border: 1px solid black; */
+   background-color: white;
+
+}
+.div3{
+    margin: 3% 20px 20px 20px;
+    flex-wrap:wrap;
+    width:max-content;
+    height: max-content;
+    border: 1px solid black;
+    background-color: white;
+
+}
+tr{
+    text-align: left;
+    padding: 20px;
+    margin: 10px;
+    background-color: white;
+}
+
+th{
+    text-align: right;
+    padding: 10px;
+    margin: 10px;
+    background-color: white;
+}
+td{
+    padding: 15px;
+    margin: 10px;
+    background-color: white;
+}
+.thed{
+    text-align: center;
+    border: 1px solid black;
+}
+.underline--dotted {
+    border-bottom: 1px rgb(180, 164, 164) dashed;
+    width:max-content;
+  }
+  .full-width {
+    /* 1/3 of 60% = the 20% margin on either side */
+    margin-left: -33.33%;
+    margin-right: -33.33%;
+  }
+  /* .champ{
+      width: 30px;
+  } */
+  .form__field {
+   
+    width: 100%;
+    border: 0;
+    border-bottom: 1px dashed gray;
+    outline: 0;
+    
+    color: black;
+    padding: 0px 0;
+    
+    transition: border-color 0.2s;
+  
+   
+  }
+  .box {
+    background-color: var(--surface-e);
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    border-radius: 4px;
+    box-shadow: 0 2px 1px -1px rgba(0,0,0,.2), 0 1px 1px 0 rgba(0,0,0,.14), 0 1px 3px 0 rgba(0,0,0,.12);
+    background-color: white;
+}
