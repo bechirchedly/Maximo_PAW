@@ -13,6 +13,8 @@ let urlsToCache = [
     '/workorder'
 ];
 
+console.warn("sw of the first one !!!!");
+
 
 
 this.addEventListener("install",(event)=>{
