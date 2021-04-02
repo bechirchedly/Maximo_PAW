@@ -1,29 +1,29 @@
 {
   "files": {
     "main.css": "/Maximo_PAW/static/css/main.6ce109ce.chunk.css",
-    "main.js": "/Maximo_PAW/static/js/main.6dd416ff.chunk.js",
-    "main.js.map": "/Maximo_PAW/static/js/main.6dd416ff.chunk.js.map",
-    "runtime-main.js": "/Maximo_PAW/static/js/runtime-main.f9cae788.js",
-    "runtime-main.js.map": "/Maximo_PAW/static/js/runtime-main.f9cae788.js.map",
+    "main.js": "/Maximo_PAW/static/js/main.4b0ea099.chunk.js",
+    "main.js.map": "/Maximo_PAW/static/js/main.4b0ea099.chunk.js.map",
+    "runtime-main.js": "/Maximo_PAW/static/js/runtime-main.982e45c9.js",
+    "runtime-main.js.map": "/Maximo_PAW/static/js/runtime-main.982e45c9.js.map",
     "static/css/2.88a896d8.chunk.css": "/Maximo_PAW/static/css/2.88a896d8.chunk.css",
-    "static/js/2.3e93acea.chunk.js": "/Maximo_PAW/static/js/2.3e93acea.chunk.js",
-    "static/js/2.3e93acea.chunk.js.map": "/Maximo_PAW/static/js/2.3e93acea.chunk.js.map",
-    "static/js/3.5cd26a2b.chunk.js": "/Maximo_PAW/static/js/3.5cd26a2b.chunk.js",
-    "static/js/3.5cd26a2b.chunk.js.map": "/Maximo_PAW/static/js/3.5cd26a2b.chunk.js.map",
+    "static/js/2.0f6f516c.chunk.js": "/Maximo_PAW/static/js/2.0f6f516c.chunk.js",
+    "static/js/2.0f6f516c.chunk.js.map": "/Maximo_PAW/static/js/2.0f6f516c.chunk.js.map",
+    "static/js/3.c2922cba.chunk.js": "/Maximo_PAW/static/js/3.c2922cba.chunk.js",
+    "static/js/3.c2922cba.chunk.js.map": "/Maximo_PAW/static/js/3.c2922cba.chunk.js.map",
     "index.html": "/Maximo_PAW/index.html",
     "service-worker.js": "/Maximo_PAW/service-worker.js",
     "service-worker.js.map": "/Maximo_PAW/service-worker.js.map",
     "static/css/2.88a896d8.chunk.css.map": "/Maximo_PAW/static/css/2.88a896d8.chunk.css.map",
     "static/css/main.6ce109ce.chunk.css.map": "/Maximo_PAW/static/css/main.6ce109ce.chunk.css.map",
-    "static/js/2.3e93acea.chunk.js.LICENSE.txt": "/Maximo_PAW/static/js/2.3e93acea.chunk.js.LICENSE.txt",
+    "static/js/2.0f6f516c.chunk.js.LICENSE.txt": "/Maximo_PAW/static/js/2.0f6f516c.chunk.js.LICENSE.txt",
     "static/media/primereact.css": "/Maximo_PAW/static/media/color.6441e63a.png",
     "static/media/primeicons.css": "/Maximo_PAW/static/media/primeicons.e61f3495.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.f9cae788.js",
+    "static/js/runtime-main.982e45c9.js",
     "static/css/2.88a896d8.chunk.css",
-    "static/js/2.3e93acea.chunk.js",
+    "static/js/2.0f6f516c.chunk.js",
     "static/css/main.6ce109ce.chunk.css",
-    "static/js/main.6dd416ff.chunk.js"
+    "static/js/main.4b0ea099.chunk.js"
   ]
 }
